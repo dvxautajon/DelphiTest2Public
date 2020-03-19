@@ -1,0 +1,11 @@
+1-Creation repositories sur GITHUB
+2-Creer le repertoire local
+3-dans GIT bash :
+aller dans le repertoire creer localement
+lancer les commandes suivante:
+git init
+git remote add origin https://github.com/dvxautajon/DelphiTest2Public.git
+git pull https://github.com/dvxautajon/DelphiTest2Public.git master
+
+4-Dans delphi
+Creer son projet ou copier les ancienne source dans ce répertoire local.
