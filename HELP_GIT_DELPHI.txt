@@ -9,3 +9,8 @@ git pull https://github.com/dvxautajon/DelphiTest2Public.git master
 
 4-Dans delphi
 Creer son projet ou copier les ancienne source dans ce répertoire local.
+-> faire un git valider (commit)
+-> faire un git PUSH
+
+5-Verifier dans github
+-> cela fonctionne OUFF
